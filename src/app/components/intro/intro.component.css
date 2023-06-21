@@ -1,0 +1,38 @@
+.container-custom {
+    margin-top: 300px; 
+    margin-right: 70px; 
+    margin-bottom: 300px; 
+    margin-left: 70px; 
+  
+    }
+  
+  .text-large {
+      font-size: 60px;
+  }
+  
+  .icons i {
+    font-size: 2.5em;
+    margin-bottom: 40px;
+  }
+  
+  .icons i:not(:last-child) {
+    margin-right: 40px;
+  }
+  
+  .text-custom {
+    margin-top: 75px;
+  }
+  
+ 
+  .buttons {
+     margin-top: 20px;
+     margin-bottom: 1 0px;
+     margin-right: 20px;
+  }
+
+  .svg-img {
+    width: 40px;
+    height: 40px;
+    margin-right:10px;
+    margin-top: 20px;
+  }
