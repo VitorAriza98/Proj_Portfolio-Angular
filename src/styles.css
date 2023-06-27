@@ -4,11 +4,11 @@
 * {
     padding: 0;
     margin: 0;
-    background-color: #161a1d /*  #212121 a cor de fundo */
+    background-color: #e3d5ca /*  #212121 a cor de fundo */
     
 }
 
 body {
-    color: #fff;  /* #fff a cor do texto */
-    background-color: #161a1d;
+    color: #003049;  /* #fff a cor do texto */
+    background-color: #e3d5ca;
 }

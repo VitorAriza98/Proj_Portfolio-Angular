@@ -1,12 +1,15 @@
 h4 {
-    color: white;
+    color: #8d0801;
 }
 
 .card-text {
-    color: white
+    color: #003566
 }
 
 .card {
     border-style: none;
 }
 
+.small-txt-color {
+    color: #8d0801;
+}

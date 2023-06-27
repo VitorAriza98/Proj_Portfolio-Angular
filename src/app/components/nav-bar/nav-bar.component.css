@@ -12,6 +12,7 @@ header{
     margin-top: 10px;
     text-transform: uppercase;
     display: inline-block;
+    color: #003049
   }
 
   .menu ul{
@@ -30,10 +31,10 @@ header{
   .menu ul li a{
     list-style: none;
     text-decoration: none;
-    color: #ffffff;
+    color: #003049;
   }
   .menu ul li a:hover{
-    color: #23ce6b;
+    color: #dd1c1a;
     cursor: pointer;
     transition: 0.4s ease-in-out;
   }
